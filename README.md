@@ -1,6 +1,6 @@
 # Sumador/Restador de 4 bits con detección de overflow
 
-Este proyecto es un prototipo de lógica combinacional desarrollado para el curso ISF-215 Hardware Digital. El circuito realiza operaciones de suma y resta (mediante la técnica de complemento a dos) sobre dos números binarios de 4 bits, e incorpora un indicador lógico que detecta y alerta cuándo el resultado supera el rango representable.
+Este proyecto es un prototipo de lógica combinacional desarrollado para la asignatura de Hardware Digital. El circuito realiza operaciones de suma y resta (mediante la técnica de complemento a dos) sobre dos números binarios de 4 bits, e incorpora un indicador lógico que detecta y alerta cuándo el resultado supera el rango representable.
 
 **Herramienta de Simulación:** El diseño, la implementación y las pruebas de este circuito fueron realizados íntegramente utilizando la plataforma web **CircuitVerse**.
 
