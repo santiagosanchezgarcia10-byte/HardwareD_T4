@@ -6,5 +6,6 @@ Este proyecto es un prototipo de lógica combinacional desarrollado para el curs
 
 ## Uso
 En este repositorio encontrarás el archivo nativo de la simulación. Para visualizar e interactuar con el circuito, simplemente descarga el archivo y cárgalo directamente en el entorno de trabajo de [CircuitVerse.org](https://circuitverse.org).
+
 Puede ser visto también con el link publico:
 (https://circuitverse.org/users/436788/projects/sumador-resta-de-4bits)
